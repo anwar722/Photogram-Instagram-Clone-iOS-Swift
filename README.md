@@ -9,6 +9,7 @@ This is an Instagram Clone that I made using Swift and Parse for learning purpos
 - Collection View to display multiple media in small boxes on the screen
 
 **Files of Interest:**
+(located in ParseSwiftStarterProject/ParseStarterProject/)
 - ViewController.swift: Signup/login Screen
 
 - TableViewController.swift: User Tables (Followers/Following)
