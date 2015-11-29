@@ -6,7 +6,7 @@ This is an Instagram Clone that I made using Swift and Parse for learning purpos
 - Login and Logout methods
 - Feeding to and retrieving media from Parse
 - User Tables (Followers/Following)
-- Collection View to display multiple media in small boxes on the screen
+- Collection View to display media in grid view
 
 **Files of Interest:**
 (located in ParseSwiftStarterProject/ParseStarterProject/)
@@ -16,7 +16,7 @@ This is an Instagram Clone that I made using Swift and Parse for learning purpos
 - CollectionViewController.swift: Multi-grid style media feed of posts by user's friends. This file uses CollectionViewCell.swift, which has a class "CollectionViewCell" that represent the cells in this particular view controller.
 - PostImageViewController.swift: Upload images
 
-Please note that this app was built merely for learning purposes and it doesn't place emphasis on UI. I uploaded only the swift files and not the XCode Project files as I want to use this repository as a future reference guide. Also, these Instagram-specific features have **not** been implemented in the app:
+Please note that this app was built merely for learning purposes and doesn't place emphasis on UI. Also, these Instagram-specific features have **not** been implemented in the app:
 - Hastagging
 - Photo filters
 
